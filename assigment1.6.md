@@ -1,0 +1,6 @@
+Create an index.html file.[cite: 6]
+Use <!DOCTYPE html>, html, head, and body elements.[cite: 6]
+Set the page title to "My First Webpage".[cite: 6]
+Add a main heading and at least 3 subheadings.[cite: 6]
+Use HTML comments and proper indentation.[cite: 6]
+Verify by opening the page in a browser.[cite: 6] Submission: The index.html file and a browser screenshot.[cite: 6]
